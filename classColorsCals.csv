@@ -1,0 +1,10 @@
+Class Name,RGB Color,Calories (kcal/100g)
+background,"(0, 0, 0)",0
+bread,"(0, 255, 255)",265
+carrot,"(173, 255, 47)",41
+chicken duck,"(255, 191, 0)",237
+sauce,"(255, 140, 0)",150
+tomato,"(139, 0, 0)",18
+potato,"(147, 112, 219)",77
+steak,"(25, 25, 112)",271
+broccoli,"(255, 0, 255)",55
